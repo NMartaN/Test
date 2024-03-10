@@ -5,9 +5,7 @@
 class Kalkulacka:
 
     def scitani(a, b):
-        """
-        ahoj
-        """
+
         return a + b
 
     def odcitani(a, b):
